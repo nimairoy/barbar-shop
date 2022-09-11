@@ -1,0 +1,85 @@
+
+@media screen and (max-width:770px){
+
+.banner_text h1{
+        font-size: 30px;
+    }
+ .banner_btn a{
+	    display: block;
+	    margin: 20px auto;
+	 }
+ .title_text h1{
+	    font-size: 26px;
+	    
+	}
+ .feature {
+	    flex-basis: 100%; 
+	}
+ .feature_img {
+	   flex-basis: 100%;
+	}
+	.feature_img img {
+	   width: 90%;
+	}
+	.feature h1 {
+		font-size: 18px;
+	}
+	.feature_text p {
+	    font-size: 13px;
+	}
+	.feature_icon .fa-shield-alt,.fa-rupee-sign,.fa-check-square{
+		font-size: 14px;
+		width: 40px!important;
+		height: 40px!important;
+	}
+	.feature_box {
+	    width: 90%;
+	}
+	.single_service{
+	    flex-basis: 100%;
+	    margin-bottom: 30px;
+	}
+	hr{
+	    margin: 5px auto;
+	}
+	.services_desc p{
+	    font-size: 12px;
+	}
+	.single_service:hover .services_desc{
+	    bottom: 20%!important;
+	}
+	.testimonial_col{
+    	flex-basis: 100%;
+	}
+
+	.testimonial_col p{
+	    font-size: 12px;
+	}
+	.user_info .fa-twitter{
+	    font-size: 16px;
+	}
+
+	.user_info h4{
+	    font-size: 12px;
+	}
+	.footer_left, .footer_right{
+	    flex-basis: 100%;
+	}
+	.footer_row h1{
+	   font-size: 18px;
+	}
+	.footer_row p{
+	    font-size: 10px;
+	    line-height: 20px;
+	}
+	.footer_img{
+		top: 15%;
+	}
+	#banner {
+	    height: 74vh;
+	}
+	#sideNav{
+		height: 45vh;
+	}
+
+}
